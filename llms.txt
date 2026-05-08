@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Akron
+
+> Geotechnical engineering services in Akron, United States.
+
+## Services
+- [Anchors](https://akron.geotechnicalengineering.biz/anchors/)
+- [Atterberg Limits](https://akron.geotechnicalengineering.biz/atterberg-limits/)
+- [Cbr Road](https://akron.geotechnicalengineering.biz/cbr-road/)
+- [Cpt Test](https://akron.geotechnicalengineering.biz/cpt-test/)
+- [Deep Excavations](https://akron.geotechnicalengineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://akron.geotechnicalengineering.biz/excavation-monitoring/)
+- [Excavations](https://akron.geotechnicalengineering.biz/excavations/)
+- [Flexible Pavement](https://akron.geotechnicalengineering.biz/flexible-pavement/)
+- [Footings](https://akron.geotechnicalengineering.biz/footings/)
+- [Foundations](https://akron.geotechnicalengineering.biz/foundations/)
+- [Grain Size](https://akron.geotechnicalengineering.biz/grain-size/)
+- [Ground Improvement](https://akron.geotechnicalengineering.biz/ground-improvement/)
+- [Grouting](https://akron.geotechnicalengineering.biz/grouting/)
+- [In Situ Permeability](https://akron.geotechnicalengineering.biz/in-situ-permeability/)
+- [Investigation](https://akron.geotechnicalengineering.biz/investigation/)
+- [Lab In Situ](https://akron.geotechnicalengineering.biz/lab-in-situ/)
+- [Laboratory](https://akron.geotechnicalengineering.biz/laboratory/)
+- [Liquefaction](https://akron.geotechnicalengineering.biz/liquefaction/)
+- [Masw](https://akron.geotechnicalengineering.biz/masw/)
+- [Mat Foundations](https://akron.geotechnicalengineering.biz/mat-foundations/)
+- [Piles](https://akron.geotechnicalengineering.biz/piles/)
+- [Proctor Tests](https://akron.geotechnicalengineering.biz/proctor-tests/)
+- [Resistivity](https://akron.geotechnicalengineering.biz/resistivity/)
+- [Retaining Walls](https://akron.geotechnicalengineering.biz/retaining-walls/)
+- [Rigid Pavement](https://akron.geotechnicalengineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://akron.geotechnicalengineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://akron.geotechnicalengineering.biz/sand-cone-density/)
+- [Seismic](https://akron.geotechnicalengineering.biz/seismic/)
+- [Seismic Isolation](https://akron.geotechnicalengineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://akron.geotechnicalengineering.biz/seismic-microzonation/)
+- [Seismic Refraction](https://akron.geotechnicalengineering.biz/seismic-refraction/)
+- [Slope Stability](https://akron.geotechnicalengineering.biz/slope-stability/)
+- [Slopes](https://akron.geotechnicalengineering.biz/slopes/)
+- [Soft Ground Tunnels](https://akron.geotechnicalengineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://akron.geotechnicalengineering.biz/spt-drilling/)
+- [Stone Columns](https://akron.geotechnicalengineering.biz/stone-columns/)
+- [Test Pits](https://akron.geotechnicalengineering.biz/test-pits/)
+- [Triaxial](https://akron.geotechnicalengineering.biz/triaxial/)
+- [Vibrocompaction](https://akron.geotechnicalengineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://akron.geotechnicalengineering.biz/
+
+## About
+This site provides geotechnical engineering services in Akron, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
