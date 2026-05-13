@@ -198,6 +198,42 @@ header.hero, .hero { position: relative !important; }
 .leaflet-control { z-index: 800 !important; }
 .leaflet-container { z-index: 1 !important; }
 </style>
+<style id="inline-link-style">
+p a[href^="/"]:not(.cta-btn):not(.hero-cta){color:var(--accent,#0F766E) !important;text-decoration:underline !important;text-decoration-color:rgba(29,78,216,.45);text-underline-offset:2px;font-weight:600}
+p a[href^="/"]:not(.cta-btn):not(.hero-cta):hover{text-decoration-color:currentColor;opacity:.85}
+</style>
+<style id="navbar-compact-fix">
+/* Compactar navbar para que el menú entre completo */
+.navbar{padding:.65rem 1rem !important}
+.navbar .nav{gap:.55rem !important}
+.nav-item{font-size:.74rem !important;letter-spacing:.01em !important}
+.nav-item.has-dd .nav-cat-link{padding:.4rem .25rem !important}
+.nav-item.has-dd .nav-arrow{font-size:.7rem !important;margin-left:.15rem !important}
+.cta-btn{padding:.45rem .8rem !important;font-size:.72rem !important;letter-spacing:.03em !important}
+.logo-box,.brand-name,.brand{font-size:.82rem !important}
+.logo-text .main{font-size:.95rem !important}
+.logo-text .sub{font-size:.72rem !important}
+/* Para layouts aberdeen/classic con clase distinta */
+header nav a,.menu a{font-size:.78rem !important}
+@media (max-width:1100px){
+  .nav-item{font-size:.7rem !important}
+  .navbar .nav{gap:.4rem !important}
+  .cta-btn{padding:.4rem .65rem !important;font-size:.68rem !important}
+}
+</style>
+<style id="layout-defensive">
+html,body{overflow-x:hidden;max-width:100vw}
+body>*{max-width:100vw}
+@media (min-width:901px){
+  aside{position:relative}
+  aside+main,aside~main,aside~div>main{margin-left:0}
+  .content-area{display:flex;gap:1rem}
+}
+@media (max-width:900px){
+  aside{width:100% !important;position:static !important;height:auto !important}
+  .navbar{flex-wrap:wrap}
+}
+</style>
 </head><body>
 
 <header class="header">
@@ -265,9 +301,9 @@ header.hero, .hero { position: relative !important; }
         <h2>Quick answers</h2><details class="faq"><summary>What is the typical soil profile for downtown Akron near the canal?</summary><p>Most downtown sites show 8 to 15 feet of brown silty clay with sand seams — this is glacial till reworked by post-glacial stream activity. Below that, a stiff gray clay layer 5 to 10 feet thick transitions into weathered shale of the Pottsville Formation at 20 to 30 feet depth. Groundwater is usually encountered at 8 to 12 feet, fluctuating with seasonal rainfall and canal stage.</p></details><details class="faq"><summary>How much does a soil mechanics study cost for a single-family home lot in Akron?</summary><p>For a standard residential lot in Summit County, a soil mechanics study with two borings to 25 feet, lab classification, and a foundation recommendation report typically falls in the range of US$2,810 to US$4,530. The final cost depends on access, depth to bedrock, and whether consolidation or triaxial testing is required by the building department.</p></details><details class="faq"><summary>Do I need a soil mechanics study for a retaining wall under 4 feet?</summary><p>Akron's building code generally exempts walls under 4 feet from a full geotechnical report, but we strongly recommend at least a shallow boring and lab classification if the wall retains a driveway or is near a property line. The till-derived soils in the area can lose significant strength when saturated, and even a small wall can rotate if the backfill isn't designed for the actual soil properties.</p></details><details class="faq"><summary>What lab tests are most important for Akron's glacial soils?</summary><p>Consolidation testing (ASTM D2435) tells us how much settlement to expect under load, which is critical for the compressible clay layers common in the Cuyahoga Valley. Direct shear or triaxial CU tests give drained and undrained strength parameters. Atterberg limits and grain-size distribution complete the classification so we can assign the correct USCS group symbol and correlate with local experience.</p></details>
     </main>
 </div>
+<section class="block" style="padding:1.5rem"><div style="max-width:1200px;margin:0 auto"><p style="margin-top:0">This service complements our <a href="/laboratory/">laboratory testing</a> work for a complete project analysis.</p></div></section>
 
-
-    <section class="block map-block" style="padding:3rem 1.5rem">
+<section class="block map-block" style="padding:3rem 1.5rem">
       <div style="max-width:1200px;margin:0 auto">
         <h2 style="margin-bottom:.8rem;font-weight:700">Location and service area</h2>
         <p style="margin-bottom:1rem;color:#555">We serve projects across Akron and its metropolitan area.</p>
