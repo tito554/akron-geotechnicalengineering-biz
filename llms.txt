@@ -13,6 +13,7 @@
 - [Flexible Pavement](https://akron.geotechnicalengineering.biz/flexible-pavement/)
 - [Footings](https://akron.geotechnicalengineering.biz/footings/)
 - [Foundations](https://akron.geotechnicalengineering.biz/foundations/)
+- [Geophysics](https://akron.geotechnicalengineering.biz/geophysics/)
 - [Grain Size](https://akron.geotechnicalengineering.biz/grain-size/)
 - [Ground Improvement](https://akron.geotechnicalengineering.biz/ground-improvement/)
 - [Grouting](https://akron.geotechnicalengineering.biz/grouting/)
